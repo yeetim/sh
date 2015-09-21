@@ -58,5 +58,5 @@ def main():
 
 
 #main()
-#getAll("select * from ja_city where name ='%s'" % '罗田县')
+#getAll("select * from ja_city where name ='%s'" % 'xx')
 #print sql('delete from ja_city where id = 1')
